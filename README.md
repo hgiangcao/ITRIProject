@@ -76,7 +76,7 @@ Accuracy: 0.922
 ## DON Evaluation
 To evaluate DON result in detail, run `DON_Training/testCorrespondace_O2O.py` to visualize the finding matching point between 2 seleted pair of images. These two images should both contain some same objects (at least one).
 The result should look similar as below:
-![](https://i.imgur.com/AmXXUJR.jpg =300x)
+![](https://i.imgur.com/AmXXUJR.jpg | width=100)
 
 
 ## Picking Training
@@ -126,9 +126,9 @@ You might want to change the implementation in `ITRP/real/realsenseCam.py` and `
 
 
 The objects we used in our experiments:
-![](https://i.imgur.com/2EHjIfY.jpg =250x)
+![](https://i.imgur.com/2EHjIfY.jpg | width=100)
 Our real experiment robot setup:
-![](https://i.imgur.com/e8mnyko.jpg =250x))
+![](https://i.imgur.com/e8mnyko.jpg | width=100))
 
 ## Supplementary videos
 * We also uploaded some demonstration videos of picking, grasping, and finding matching points:
