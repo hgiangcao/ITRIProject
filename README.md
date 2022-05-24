@@ -1,6 +1,6 @@
-# ITRI x CGILab: Picking Cluttered Objects
+# Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors
 ## Codes
-The project is uploaded here: https://github.com/hgiangcao/ITRIProject
+The project is uploaded here: https://github.com/hgiangcao/CODs
 
 
 Note that the data is for demonstrate purpose only. You might want to download full data for training DON at: https://drive.google.com/file/d/1kazXNIBVy-ziNpd8-mt7g7-Mtyb8VYhY/view?usp=sharing
